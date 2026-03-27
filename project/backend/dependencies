@@ -1,0 +1,4 @@
+fast api
+uvicorn
+pydantic
+typing
